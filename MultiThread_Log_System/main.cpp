@@ -52,6 +52,7 @@ void processWarnings(vector<string> warnings)
 
     updateTotalLogs(warnings.size());
 }
+//comment
 
 
 // SUCCESS thread
