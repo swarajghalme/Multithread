@@ -112,7 +112,9 @@ int main()
     // Wait for all threads
     t1.join();
     t2.join();
+    //comment-3
     t3.join();
+    //comment-4
 
 
     cout << "Total logs processed: " << totalLogs << endl;
