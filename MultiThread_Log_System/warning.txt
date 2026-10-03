@@ -1,0 +1,93 @@
+WARNING Memory usage high
+WARNING CPU usage high
+WARNING Disk usage high
+WARNING High latency detected
+WARNING Disk space low
+WARNING Network latency high
+WARNING Memory threshold exceeded
+WARNING CPU temperature high
+WARNING Queue size high
+WARNING Disk usage critical
+WARNING CPU usage high
+WARNING Memory usage high
+WARNING Disk usage high
+WARNING High memory consumption
+WARNING CPU load high
+WARNING Queue size high
+WARNING Database response slow
+WARNING System load high
+WARNING Log queue full
+WARNING Authentication retries high
+WARNING File upload slow
+WARNING Payment response slow
+WARNING Packet loss high
+WARNING Database load high
+WARNING Cache memory high
+WARNING Scheduler queue high
+WARNING Worker queue high
+WARNING Configuration outdated
+WARNING Multiple login attempts
+WARNING Backup storage high
+WARNING Storage capacity low
+WARNING API latency high
+WARNING Request queue high
+WARNING Monitoring load high
+WARNING Health check slow
+WARNING Temporary files high
+WARNING Backup duration high
+WARNING Startup time high
+WARNING Final resource usage high
+WARNING Profile response slow
+WARNING Account update delayed
+WARNING Session timeout high
+WARNING Authentication load high
+WARNING Request processing slow
+WARNING Response latency high
+WARNING Upload speed low
+WARNING Download speed low
+WARNING Database write slow
+WARNING Database update delayed
+WARNING Database delete slow
+WARNING Cache usage high
+WARNING Service startup slow
+WARNING Service shutdown slow
+WARNING Worker CPU usage high
+WARNING Worker processing slow
+WARNING Queue capacity high
+WARNING Connection latency high
+WARNING Active connections high
+WARNING Health check response slow
+WARNING Monitoring CPU usage high
+WARNING Monitoring shutdown slow
+WARNING Backup process slow
+WARNING Restore operation slow
+WARNING File creation slow
+WARNING File deletion slow
+WARNING File operation slow
+WARNING Configuration update slow
+WARNING Settings save slow
+WARNING API response slow
+WARNING API shutdown slow
+WARNING Database connection slow
+WARNING Database restart slow
+WARNING Network recovery slow
+WARNING Authentication service slow
+WARNING Security scan slow
+WARNING Payment processing slow
+WARNING Payment verification slow
+WARNING Transaction verification slow
+WARNING Report generation slow
+WARNING Log archive slow
+WARNING System restart slow
+WARNING Process running slow
+WARNING Operation taking longer
+WARNING Task assignment delayed
+WARNING Task execution slow
+WARNING Request handling slow
+WARNING Response handling slow
+WARNING Server load high
+WARNING Service health degraded
+WARNING System resource usage high
+WARNING Processing delayed
+WARNING Shutdown delayed
+WARNING Restart delayed
