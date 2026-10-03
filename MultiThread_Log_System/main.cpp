@@ -7,6 +7,8 @@
 
 using namespace std;
 
+//changes detect karna git hub ver 
+
 
 // Shared count
 int totalLogs = 0;
